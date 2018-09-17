@@ -12,5 +12,9 @@ namespace ConsoleApp1
         {
             Console.WriteLine("First commit");
         }
+        public static void Method1()
+        {
+            Console.WriteLine("some modification in master");
+        }
     }
 }
