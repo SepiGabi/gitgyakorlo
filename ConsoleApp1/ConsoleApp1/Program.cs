@@ -12,7 +12,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("First commit");
             Console.WriteLine("Create branch B");
-            Console.WriteLine("Some modification in branch B");
+            Console.WriteLine("Some modification in branch B. This modified by branch C.");
             Console.WriteLine("Create branch C");
         }
     }
