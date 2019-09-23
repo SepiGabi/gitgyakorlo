@@ -16,6 +16,7 @@ namespace ConsoleApp1
         public static void Method1()
         {
             Console.WriteLine("some modification in master");
+            //Feature1
         }
     }
 }
