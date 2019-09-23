@@ -28,6 +28,7 @@ namespace ConsoleApp1
             //F6
             //mod f6
             //F7
+            //mod F7
         }
     }
 }
