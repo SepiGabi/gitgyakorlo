@@ -17,6 +17,7 @@ namespace ConsoleApp1
         {
             Console.WriteLine("some modification in master");
             //Feature1
+            //Feature2
         }
     }
 }
